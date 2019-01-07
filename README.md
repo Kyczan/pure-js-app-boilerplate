@@ -9,6 +9,7 @@ This is bolireplate for pure JS app.
 - webpack dev server
 - hot module replacement
 - css loader
+- image loader
 
 ## Usage
 
